@@ -19,15 +19,18 @@ Marketing teams require structured customer segmentation to:
 - Support revenue growth strategies
 This project applies RFM modeling to transform raw transactional data into actionable player segments that can guide CRM, reactivation campaigns, VIP prioritization, and lifecycle marketing initiatives.
 
-_ Data Understanding_
+_Data Understanding_
 
 The dataset includes aggregated player-level transactional and activity data such as:
-- Player ID
-- Registration date
-- Transaction dates
-- Deposit amounts
-- Betting activity
-- Frequency
+| Column                          | Purpose                               | Used For       |
+| ------------------------------- | ------------------------------------- | -------------- |
+| **Player ID**                   | Unique player identifier              | Aggregation    |
+| **Bet Date / Transaction Date** | To compute last bet date              | Recency        |
+| **Bet Date (Date only)**        | To count distinct active betting days | Frequency      |
+| **Bet Amount (Turnover)**       | Optional but useful                   | GGR validation |
+| **Payout Amount**               | Needed to compute GGR                 | Monetary       |
+| **GGR** (if already computed)   | Direct monetary metric                | Monetary       |
+
 The analysis focuses on a defined time window to ensure relevance and consistency in behavioral scoring.
 Dataused in this repository is anonymized and structured to demonstrate methodology without exposing proprietary information.
 
