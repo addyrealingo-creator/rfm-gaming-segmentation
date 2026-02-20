@@ -34,7 +34,7 @@ The dataset includes aggregated player-level transactional and activity data suc
 The analysis focuses on a defined time window to ensure relevance and consistency in behavioral scoring.
 Dataused in this repository is anonymized and structured to demonstrate methodology without exposing proprietary information.
 
-_ Technologies_
+_Technologies_
 
 This project demonstrates proficiency in:
 - SQL (aggregation, joins, window functions, CASE statements)
@@ -71,9 +71,9 @@ Monetary (M): GGR per player
 3. Scoring Methodology
 Applied quintile-based scoring (1–5 scale) on population
 Assigned composite RFM scores (e.g., 555 = highest value segment)
-Recency - latest transaaction = high value
-Frequency - more active days = high score
-Monetary - high ggr = high score
+Recency: latest transaaction = high value
+Frequency: more active days = high score
+Monetary: high ggr = high score
 Standardized scoring logic for reproducibility
 
 5. Segmentation Framework
