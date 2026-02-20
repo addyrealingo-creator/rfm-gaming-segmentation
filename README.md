@@ -48,22 +48,22 @@ This project demonstrates proficiency in:
 _Approach_
 
 1. Data Extraction
-Aggregated transaction-level data into player-level metrics
-Filtered records within defined analysis window
-Validated data quality and removed inconsistencies
+- Aggregated transaction-level data into player-level metrics
+- Filtered records within defined analysis window
+- Validated data quality and removed inconsistencies
 
 3. RFM Metric Calculation
-Recency (R): Days since last bet
-Frequency (F): Active Days of Betting
-Monetary (M): GGR per player
+- Recency (R): Days since last bet
+- Frequency (F): Active Days of Betting
+- Monetary (M): GGR per player
 
 4. Scoring Methodology
-Applied quintile-based scoring (1–5 scale) on population
-Assigned composite RFM scores (e.g., 555 = highest value segment)
-Recency: latest transaaction = high value
-Frequency: more active days = high score
-Monetary: high ggr = high score
-Standardized scoring logic for reproducibility
+- Applied quintile-based scoring (1–5 scale) on population
+- Assigned composite RFM scores (e.g., 555 = highest value segment)
+  - Recency: latest transaaction = high value
+  - Frequency: more active days = high score
+  - Monetary: high ggr = high score
+- Standardized scoring logic for reproducibility
 
 5. Segmentation Framework
 Players were categorized into actionable marketing segments such as:
@@ -75,10 +75,10 @@ Players were categorized into actionable marketing segments such as:
 
 5. Business Interpretation
 Each segment supports specific marketing strategies:
-Champions: VIP retention and exclusive rewards
-Loyal Players: Upsell and engagement programs
-At Risk: Targeted reactivation campaigns
-Dormant: Win-back initiatives
+- **Champions**: VIP retention and exclusive rewards
+- **Loyal Players**: Upsell and engagement programs
+- **At Risk**: Targeted reactivation campaigns
+- **Dormant**: Win-back initiatives
 
 _Strategic Value_
 
@@ -91,7 +91,7 @@ RFM modeling serves as a foundational analytics layer that can later integrate w
 
 _Credits_
 
-Mentorship and guidance provided by the Enterprise Analytics team, especially Sir Christopher Martinez, and Sir Robinbin
+Mentorship and guidance provided by the Enterprise Analytics team, especially Teammate Christopher Martinez, and Sir Robinbin, our Head
 RFM methodology inspired by widely adopted CRM and marketing analytics frameworks.
 
 _Future Enhancements_
