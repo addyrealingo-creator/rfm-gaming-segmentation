@@ -52,12 +52,12 @@ Aggregated transaction-level data into player-level metrics
 Filtered records within defined analysis window
 Validated data quality and removed inconsistencies
 
-2. RFM Metric Calculation
+3. RFM Metric Calculation
 Recency (R): Days since last bet
 Frequency (F): Active Days of Betting
 Monetary (M): GGR per player
 
-3. Scoring Methodology
+4. Scoring Methodology
 Applied quintile-based scoring (1–5 scale) on population
 Assigned composite RFM scores (e.g., 555 = highest value segment)
 Recency: latest transaaction = high value
