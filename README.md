@@ -45,17 +45,6 @@ This project demonstrates proficiency in:
 - Protos 
 - Git & GitHub
 
-_Setup_
-
-To replicate this project locally:
-Clone this repository:
-git clone https://github.com/addyrealingo-creator/rfm-gaming-segmentation.git
-
-_Install required dependencies:
-Open the notebook:
-Update database connection string (not included for security and compliance reasons).
-Note: Database credentials and proprietary datasets are excluded._
-
 _Approach_
 
 1. Data Extraction
