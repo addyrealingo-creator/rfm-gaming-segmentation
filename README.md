@@ -49,7 +49,7 @@ _Approach_
 
 1. Data Extraction
 - Aggregated transaction-level data into player-level metrics
-- Filtered records within defined analysis window
+- Filtered records within defined analysis window (2nd half of 2025)
 - Validated data quality and removed inconsistencies
 
 3. RFM Metric Calculation
