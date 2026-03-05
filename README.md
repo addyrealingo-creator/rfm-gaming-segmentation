@@ -58,7 +58,7 @@
     - Monetary: high ggr = high score
   - Identify top-performing, high-potential, and lapsed players
 
-    | **Segment**               | **RFM Profile**                      | **Behavior / Description**                           | **Marketing Focus**                                      |
+| **Segment**               | **RFM Profile**                      | **Behavior / Description**                           | **Marketing Focus**                                      |
 | ------------------------- | ------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------- |
 | **Champions / Top Value** | High R, High F, High M               | Most active, spend the most, recent activity         | VIP retention, exclusive rewards, lookalike acquisition  |
 | **Loyal Players**         | Medium-High R, High F, Medium-High M | Consistent play, regular deposits, moderate spend    | Upsell, engagement programs, cross-sell offers           |
