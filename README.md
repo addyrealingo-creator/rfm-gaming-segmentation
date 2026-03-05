@@ -7,11 +7,11 @@
 **_Business Understanding_**
 
   Marketing acquisition teams require actionable insights to:
-    - Identify the characteristics of high-value players
-    - Determine demographic, behavioral, and transactional profiles
-    - Optimize acquisition and re-acquisition campaigns
-    - Increase return on marketing investment (ROI) by targeting players most likely to convert or return
-    - Inform creative and channel strategy for new user acquisition
+      - Identify the characteristics of high-value players
+      - Determine demographic, behavioral, and transactional profiles
+      - Optimize acquisition and re-acquisition campaigns
+      - Increase return on marketing investment (ROI) by targeting players most likely to convert or return
+      - Inform creative and channel strategy for new user acquisition
   RFM modeling provides a structured approach to segmenting players based on engagement and monetary behavior, which becomes a foundation for targeted acquisition efforts.
 
 **_Data Understanding_**
@@ -34,11 +34,11 @@
 **_Technologies_**
 
   Key technologies required for this project
-    - SQL (aggregation, joins, window functions, CASE statements)
-    - Python (data wrangling and analysis)
-    - Pandas / NumPy (data manipulation)
-    - Matplotlib / Seaborn (visualization)
-    - Git & GitHub 
+      - SQL (aggregation, joins, window functions, CASE statements)
+      - Python (data wrangling and analysis)
+      - Pandas / NumPy (data manipulation)
+      - Matplotlib / Seaborn (visualization)
+      - Git & GitHub 
 
 **_Approach_**
 
