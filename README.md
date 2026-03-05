@@ -57,6 +57,15 @@
     - Frequency: more active days = high score
     - Monetary: high ggr = high score
   - Identify top-performing, high-potential, and lapsed players
+
+    | **Segment**               | **RFM Profile**                      | **Behavior / Description**                           | **Marketing Focus**                                      |
+| ------------------------- | ------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------- |
+| **Champions / Top Value** | High R, High F, High M               | Most active, spend the most, recent activity         | VIP retention, exclusive rewards, lookalike acquisition  |
+| **Loyal Players**         | Medium-High R, High F, Medium-High M | Consistent play, regular deposits, moderate spend    | Upsell, engagement programs, cross-sell offers           |
+| **Potential Loyalists**   | High R, Medium F, Medium M           | New or recently active players with growth potential | Incentivize engagement, first-time high-value promotions |
+| **At-Risk Players**       | Low R, Medium-High F, Medium-High M  | Previously valuable, now inactive                    | Reactivation campaigns, win-back incentives              |
+| **Dormant / Lapsed**      | Low R, Low F, Low M                  | Inactive or negligible contribution                  | Low-cost win-back, generic re-engagement campaigns       |
+
   4. Player Profiling for Acquisition
     - Combine RFM segments with demographics and acquisition source
     - Analyze gender, age, region, and channel patterns for high-value players
