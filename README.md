@@ -79,6 +79,7 @@
 
 **_Future Enhancements_**
 
+- Profile analysis of high value players
 - Integration with predictive churn modeling
 - Automated dashboard reporting
 - Campaign performance A/B testing per segment
