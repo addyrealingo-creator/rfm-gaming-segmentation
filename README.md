@@ -110,11 +110,11 @@ Based on the resulting RFM scores, players are categorized into five key behavio
 
 | Segment               | RFM Profile                          | Behavior / Description                                            | Marketing Focus                                          |
 | --------------------- | ------------------------------------ | ----------------------------------------------------------------- | -------------------------------------------------------- |
-| Champions / Top Value | High R, High F, High M               | Most active players with the highest spending and recent activity | VIP retention, exclusive rewards, lookalike acquisition  |
-| Loyal Players         | Medium-High R, High F, Medium-High M | Consistent players with stable betting behavior                   | Upsell, engagement programs, cross-sell offers           |
-| Potential Loyalists   | High R, Medium F, Medium M           | Recently active players showing potential for growth              | Incentivize engagement, first-time high-value promotions |
-| At-Risk Players       | Low R, Medium-High F, Medium-High M  | Previously valuable players who have become inactive              | Reactivation campaigns, win-back incentives              |
-| Dormant / Lapsed      | Low R, Low F, Low M                  | Players with minimal or inactive engagement                       | Low-cost win-back or generic re-engagement campaigns     |
+| Champions / Top Value | R ≥ 4, F ≥ 4, M ≥ 4                  | Most active players with the highest spending and recent activity | VIP retention, exclusive rewards, lookalike acquisition  |
+| Loyal Players         | R ≥ 3, F ≥ 4, M ≥ 3                  | Consistent players with stable betting behavior                   | Upsell, engagement programs, cross-sell offers           |
+| Potential Loyalists   | R ≥ 4, F 2–3, M 2–3                  | Recently active players showing potential for growth              | Incentivize engagement, first-time high-value promotions |
+| At-Risk Players       | R ≤ 2, F ≥ 3, M ≥ 3                  | Previously valuable players who have become inactive              | Reactivation campaigns, win-back incentives              |
+| Dormant / Lapsed      | R ≤ 2, F ≤ 2                         | Players with minimal or inactive engagement                       | Low-cost win-back or generic re-engagement campaigns     |
 
 
 This segmentation framework helps identify top-performing players, players with growth potential, and players at risk of churn.
